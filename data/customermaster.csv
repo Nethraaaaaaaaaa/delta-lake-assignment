@@ -1,1 +1,8 @@
-
+﻿customer_id,customer_name,city,age,email
+101,Nethra,Hyderabad,21,nethra@gmail.com
+102,Ashish,Chennai,22,ashish@gmail.com
+103,Priya,Bangalore,22,priya@gmail.com
+104,Dhruv,Delhi,30,dhruv@gmail.com
+105,Anil,Mumbai,27,anil@gmail.com
+105,Anil,Mumbai,27,anil@gmail.com
+106,Sneha,,24,sneha@gmail.com
